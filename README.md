@@ -1,4 +1,5 @@
 ![Cover](https://github.com/Arnaud-WebDev/Arnaud-WebDev/blob/main/img/watchmenhappyface.jpg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev)](https://github.com/Arnaud-WebDev/github-readme-stats)
 - 👋 Hi, I’m @Arnaud-WebDev
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning code
