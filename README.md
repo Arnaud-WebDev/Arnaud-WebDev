@@ -6,7 +6,7 @@ My name is Arnaud, i have been a web developer for a few months and I train ever
 
 ***
 
-<img src="/img/code.gif" width="300" height="220" > <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" valign="40px" hspace="6"> 
+<img src="/img/code.gif" width="300" height="220" > <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" valign="30px" hspace="6"> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Arnaud-WebDev.Arnaud-WebDev)
 
