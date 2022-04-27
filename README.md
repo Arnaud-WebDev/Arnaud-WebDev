@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev)](https://github.com/Arnaud-WebDev/github-readme-stats)
 
 ***
-### numbers of visits
+### Numbers of visits
 [![Visits Badge](https://badges.pufler.dev/visits/Arnaud-WebDev/Arnaud-WebDev)](https://badges.pufler.dev)
 ***
 
