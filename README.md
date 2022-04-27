@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/watchmenhappyface.jpg" >
+  <img src="/img/code.gif" >
 </p>
 
 <p align="center">
