@@ -35,6 +35,7 @@ My name is Arnaud, i have been a web developer for a few months and I train ever
 <br />
 
 ***
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud-WebDev&layout=compact" alt="Arnaud-WebDev" />
 <!-- - 👋 Hi, I’m @Arnaud-WebDev
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning code
