@@ -1,4 +1,4 @@
-![Cover](https://github.com/Arnaud-WebDev/Arnaud-WebDev/blob/master/img/watchmenhappyface.jpg)
+![Cover](https://github.com/Arnaud-WebDev/Arnaud-WebDev/master/img/watchmenhappyface.jpg)
 - 👋 Hi, I’m @Arnaud-WebDev
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning code
