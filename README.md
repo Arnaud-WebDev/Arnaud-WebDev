@@ -1,6 +1,6 @@
 ![Cover](https://github.com/Arnaud-WebDev/Arnaud-WebDev/blob/main/img/watchmenhappyface.jpg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev)](https://github.com/Arnaud-WebDev/github-readme-stats)
-![Visitor Count](https : //profile-counter.glitch.me/Arnaud-WebDev/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Arnaud-WebDev/count.svg)
 - 👋 Hi, I’m @Arnaud-WebDev
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning code
