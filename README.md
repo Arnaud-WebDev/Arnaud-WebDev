@@ -2,7 +2,7 @@
 ### Bonjour ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 Je m'appelle Arnaud, je suis développeur web depuis quelques mois et je m'entraîne tous les jours pour améliorer mon code et mes connaissances.
 ### Hello ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-My name is Arnaud, I have been a web developer for a few months and I train every day to improve my code and my knowledge.
+My name is Arnaud, i have been a web developer for a few months and I train every day to improve my code and my knowledge.
 
 ***
 
@@ -11,7 +11,7 @@ My name is Arnaud, I have been a web developer for a few months and I train ever
 ![](https://visitor-badge.glitch.me/badge?page_id=Arnaud-WebDev.Arnaud-WebDev)
 
 ***
-# Various tech i use / Les diverses technologies que j'utilise
+## Les diverses technologies que j'utilise / Various tech i use :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -23,15 +23,15 @@ My name is Arnaud, I have been a web developer for a few months and I train ever
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ***
-#### How to contact me / Comment me contacter: <br />
+### Comment me contacter / How to contact me : <br />
 
 <a href="mailto:arnaud.grandpierre@gmail.com">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30px" />
 </a>
 
-<a href="https://www.linkedin.com">
+<!-- <a href="https://www.linkedin.com">
   <img align="left" alt="Arnaud's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
+</a>  -->
 <br />
 
 ***
