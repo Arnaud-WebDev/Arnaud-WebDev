@@ -1,16 +1,7 @@
-<p align="center">
-  <img src="/img/code.gif" >
-</p>
+<img src="/img/code.gif" width="500" height="320" > <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" valign="67px" hspace="6"> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" >
-</p>
+![](https://visitor-badge.glitch.me/badge?page_id=Arnaud-WebDev.Arnaud-WebDev)
 
-
-***
-### Numbers of visits
-[![Visits Badge](https://badges.pufler.dev/visits/Arnaud-WebDev/Arnaud-WebDev)](https://badges.pufler.dev)
-***
 
 # Various tech i use
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,12 +14,26 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+***
+How to contact me: <br />
+
+
+<a href="https://www.linkedin.com">
+  <img alt="Arnaud's LinkedIN" align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+<a href="mailto:arnaud.grandpierre@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30px"/></a>
+  
+
+
+***
 
 - 👋 Hi, I’m @Arnaud-WebDev
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  <a href="mailto:arnaud.grandpierre@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+- 📫 How to reach me ...
 
 
 <!---
