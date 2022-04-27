@@ -3,10 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" >
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev)](https://github.com/Arnaud-WebDev/github-readme-stats)
 
 
 ***
@@ -30,7 +28,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me  <a href="mailto:arnaud.grandpierre@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
 <!---
