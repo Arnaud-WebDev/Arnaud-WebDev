@@ -1,4 +1,11 @@
-![Cover](https://github.com/Arnaud-WebDev/Arnaud-WebDev/blob/main/img/watchmenhappyface.jpg) 
+<p align="center">
+  <img src="/img/watchmenhappyface.jpg" >
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev" >
+</p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev)](https://github.com/Arnaud-WebDev/github-readme-stats)
 
 
