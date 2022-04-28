@@ -21,10 +21,8 @@
 </p>
 
 <br />
-<br />
 
 *** 
-<br />
 
 ### Les diverses technologies que j'utilise / Various tech i use :
 
