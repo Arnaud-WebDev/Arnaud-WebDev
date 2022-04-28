@@ -9,18 +9,12 @@
 <img src="/img/code.gif" width="300" height="220"> <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" valign="15px" hspace="23"> 
 
 
-<p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Arnaud-WebDev.Arnaud-WebDev" align="right" alt="Visitor's count" /> 
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Arnaud-WebDev.Arnaud-WebDev" alt="Visitor's count" /> 
+  <img src="https://badges.pufler.dev/updated/Arnaud-WebDev/Arnaud-WebDev?&color=blue" alt="Visitor's count" /> 
+  <img src="https://badges.pufler.dev/commits/monthly/Arnaud-WebDev?&color=blue" alt="Visitor's count" /> 
 </p>
-
-<p>
-  <img src="https://badges.pufler.dev/updated/Arnaud-WebDev/Arnaud-WebDev?&color=blue" align="right" alt="Visitor's count" /> 
-</p>
-
-<p>
-  <img src="https://badges.pufler.dev/commits/monthly/Arnaud-WebDev?&color=blue" align="right" alt="Visitor's count" /> 
-</p>
-
+  
 <br />
 
 *** 
