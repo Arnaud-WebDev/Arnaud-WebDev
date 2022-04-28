@@ -43,8 +43,9 @@
 </a>
 
  <a href="https://www.linkedin.com">
-  <img align="left" alt="Arnaud's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>  
+  <img align="left" alt="Arnaud's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> 
+
 <br />
 
 ***
