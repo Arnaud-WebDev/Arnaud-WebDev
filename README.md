@@ -6,11 +6,8 @@
 
 ***
 
-<img src="/img/code.gif" width="300" height="220"> <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" valign="15px" align="right"> 
+<img src="/img/code.gif" width="300" height="220"> <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" valign="15px" hspace="23"> 
 
-<br />
-
-***
 
 <p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Arnaud-WebDev.Arnaud-WebDev" align="right" alt="Visitor's count" /> 
