@@ -13,11 +13,11 @@
 </p>
 
 <p>
-  <img src="https://badges.pufler.dev/updated/Arnaud-WebDev/Arnaud-WebDev" align="right" alt="Visitor's count" /> 
+  <img src="https://badges.pufler.dev/updated/Arnaud-WebDev/Arnaud-WebDev?&color=blue" align="right" alt="Visitor's count" /> 
 </p>
 
 <p>
-  <img src="https://badges.pufler.dev/commits/monthly/Arnaud-WebDev" align="right" alt="Visitor's count" /> 
+  <img src="https://badges.pufler.dev/commits/monthly/Arnaud-WebDev?&color=blue" align="right" alt="Visitor's count" /> 
 </p>
 
 <br />
