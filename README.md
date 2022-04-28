@@ -8,6 +8,8 @@
 
 <img src="/img/code.gif" width="300" height="220"> <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" valign="15px" align="right"> 
 
+<br />
+
 ***
 
 <p>
