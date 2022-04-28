@@ -1,8 +1,8 @@
 ***
 ### Bonjour ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-Je m'appelle Arnaud, je suis développeur web depuis quelques mois et je m'entraîne tous les jours pour améliorer mon code et mes connaissances.
+💬 Je m'appelle Arnaud, je suis développeur web depuis quelques mois et je m'entraîne tous les jours pour améliorer mon code et mes connaissances.
 ### Hello ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-My name is Arnaud, i have been a web developer for a few months and I train every day to improve my code and my knowledge.
+💬 My name is Arnaud, i have been a web developer for a few months and I train every day to improve my code and my knowledge. 
 
 ***
 
