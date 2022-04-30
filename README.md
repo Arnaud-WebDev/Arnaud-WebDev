@@ -5,11 +5,16 @@
 💬 My name is Arnaud, i have been a web developer for a few months and I train every day to improve my code and my knowledge. 
 
 ***
-<p align="center">
-  <img src="/img/code.gif" width="300" height="220"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" valign="15px" >  
+<!-- <p align="center">
+<!--   <img src="/img/code.gif" width="300" height="220">  -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" valign="15px" >   -->
   <!--  hspace="23" donne un espace entre les 2 images (profil et github-stats) mais pas responsive si mis sur github-stats -->
 </p>
+ -->
+ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/img/code.gif" width="300" height="220"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight)
+
+
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Arnaud-WebDev.Arnaud-WebDev" alt="Visitor's count" /> 
