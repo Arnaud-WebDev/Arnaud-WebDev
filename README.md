@@ -50,7 +50,7 @@
 
 ***
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud-WebDev&layout=compact&theme=tokyonight&hide_border=true" alt="Arnaud-WebDev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud-WebDev&layout=compact&theme=tokyonight&hide_border=true&kill_cache=1" alt="Arnaud-WebDev" />
 </p>
 
 ***
