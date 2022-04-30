@@ -12,7 +12,7 @@
 <!-- </p>   -->
 
  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/img/code.gif" width="300" height="220"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/img/code.gif" width="300" height="220"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&theme=tokyonight)](https://github.com/Arnaud-WebDev/github-readme-stats&theme=tokyonight)
 
 
 
