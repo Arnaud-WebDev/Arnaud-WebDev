@@ -13,8 +13,8 @@
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Arnaud-WebDev.Arnaud-WebDev" alt="Visitor's count" /> 
-  <img src="https://badges.pufler.dev/updated/Arnaud-WebDev/Arnaud-WebDev?&color=blue" alt="Visitor's count" /> 
-  <img src="https://badges.pufler.dev/commits/monthly/Arnaud-WebDev?&color=blue" alt="Visitor's count" /> 
+  <img src="https://badges.pufler.dev/updated/Arnaud-WebDev/Arnaud-WebDev?&color=blue&kill_cache=1" alt="Update profile github" /> 
+  <img src="https://badges.pufler.dev/commits/monthly/Arnaud-WebDev?&color=blue&kill_cache=1" alt="Count of commits" /> 
 </p>
   
 <br />
