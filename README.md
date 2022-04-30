@@ -7,14 +7,15 @@
 ***
 <p align="center">
   <img src="/img/code.gif" width="300" height="220"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight&kill_cache=1" valign="15px" > 
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnaud-WebDev&show_icons=true&theme=tokyonight" valign="15px" > 
   <!--  hspace="23" donne un espace entre les 2 images (profil et github-stats) mais pas responsive si mis sur github-stats -->
 </p>
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Arnaud-WebDev.Arnaud-WebDev" alt="Visitor's count" /> 
-  <img src="https://badges.pufler.dev/updated/Arnaud-WebDev/Arnaud-WebDev?&color=blue&kill_cache=1" alt="Update profile github" />  
-  <img src="https://badges.pufler.dev/commits/monthly/Arnaud-WebDev?&color=blue&kill_cache=1" alt="Count of commits" /> 
+  <img src="https://badges.pufler.dev/updated/Arnaud-WebDev/Arnaud-WebDev?&color=blue" alt="Update profile github" />  
+  <img src="https://badges.pufler.dev/commits/monthly/Arnaud-WebDev?&color=blue" alt="Count of commits" /> 
+<!--  &kill_cache=1 pour éviter les problème de synchronisation  ? -->
 </p>
   
 <br />
