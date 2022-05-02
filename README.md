@@ -20,7 +20,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Arnaud-WebDev.Arnaud-WebDev" alt="Visitor's count" /> 
   <img src="https://badges.pufler.dev/updated/Arnaud-WebDev/Arnaud-WebDev?&color=blue" alt="Update profile github" />  
   <img src="https://badges.pufler.dev/commits/monthly/Arnaud-WebDev?&color=blue" alt="Count of commits" /> 
-<!--  &kill_cache=1 pour éviter les problème de synchronisation  ? -->
+<!--  &kill_cache=1 pour éviter les problèmes de synchronisation  ? -->
 </p>
   
 <br />
