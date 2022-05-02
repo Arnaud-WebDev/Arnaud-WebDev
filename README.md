@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Arnaud-WebDev.Arnaud-WebDev" alt="Visitor's count" /> 
   <img src="https://badges.pufler.dev/updated/Arnaud-WebDev/Arnaud-WebDev?&color=blue" alt="Update profile github" />  
-  <img src="https://badges.pufler.dev/commits/monthly/Arnaud-WebDev?&color=blue&kill_cache=1" alt="Count of commits" /> 
+  <img src="https://badges.pufler.dev/commits/monthly/Arnaud-WebDev?&color=blue" alt="Count of commits" /> 
 <!--  &kill_cache=1 pour éviter les problème de synchronisation  ? -->
 </p>
   
